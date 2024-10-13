@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "name": "Bánh socola update 1",
+      "image": "https://cf.shopee.vn/file/d4f0aaa6c5a5a9ee360179d20a8d8ff6",
+      "price": "12000",
+      "description": "scdfff",
+      "id": 3
+    },
+    {
+      "name": "keo milo",
+      "image": "https://th.bing.com/th/id/OIP.3wkBr2IhAj8maVx2QfPzmgHaHa?rs=1&pid=ImgDetMain",
+      "price": "10000",
+      "description": "ngon",
+      "id": 4
+    },
+    {
+      "name": "Bánh nabati",
+      "image": "https://medayroi.com/wp-content/uploads/2022/01/banh-nabati-bao-nhieu-calo-hinh-3-1.jpg",
+      "price": "10000",
+      "description": "ngon",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "email": "anhdtph49928@gmail.com",
+      "password": "$2a$10$FcTN5LbfouMCPt5ZnxNE6.X6qDsJEXNhHroeXqxHeL./hnIJe76Zm",
+      "name": "Anh",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "email": "anhdtph499288@gmail.com",
+      "password": "$2a$10$yvoaP2znRag1n4lb9w//6.KtFG.yDzVmqzxscAaUcRbtq3OvI8EZe",
+      "name": "Ánh",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "email": "anhdtph499280@gmail.com",
+      "password": "$2a$10$p4uqfYgBAy/kI5S8M1CurObbujQexYPZocU/oR5EzDCquteYy.qvS",
+      "name": "Dang anh",
+      "role": "user",
+      "id": 3
+    }
+  ]
+}
